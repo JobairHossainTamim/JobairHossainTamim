@@ -10,7 +10,9 @@
 
 ## 🛠 Skills
 
-Javascript , HTML, CSS , JAVA , React Js , Node Js  
+* ⚛ React
+* 📱 Android Apps
+* 💻 HTML, CSS, JS
 
 ## Languages and Tools:
 
