@@ -2,7 +2,7 @@
 
 
 
-## I'm a Coder , Traveler, Developer, and Learner !!
+## I'm a Coder , Traveler , Developer, and Learner !!
 
 - 🔭  I'm a Full Stuck web  developer 🌍 
 - 🌱 I’m currently learning  something new  🤣
