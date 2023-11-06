@@ -4,9 +4,9 @@
 
 ## I'm a Coder , Traveler , Developer, and Learner !!
 
-- 🔭  I'm a Full Stuck web  developer 🌍 
-- 🌱 I’m currently learning  something new  
-- 📝 Explore Some new :electron: 
+- 🔭 I am a self-motivated and dedicated professional with a strong work ethic. 🌍 
+- 🌱 My tech skills in JavaScript, React, Node.js, and Express.js make me an asset to dynamic projects.
+- 📝 My positive outlook on life fuels my drive to excel in my career.
 
 ## 🛠 Skills
 
