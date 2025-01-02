@@ -2,22 +2,26 @@
 
 
 
-## I'm a Coder , Traveler , Developer, and Learner !!
+## 👨‍💻 Coder | Developer | Learner
 
-- 🔭 I am a self-motivated and dedicated professional with a strong work ethic. 🌍 
-- 🌱 My tech skills in JavaScript, React, Node.js, and Express.js make me an asset to dynamic projects.
-- 📝 My positive outlook on life fuels my drive to excel in my career.
+- 🌍 Traveler by interest in exploring.
+- 🔭 Results-oriented professional, self-motivated, dedicated, and committed to work.
+- 🌱 Smoothing out my tech skills continuously to contribute to dynamic projects.
+- 📝 A positive outlook on life, therefore, inspires me to be excellent and grow with each step of my career.
 
+  
 ## 🛠 Skills
 
-* ⚛ React, NodeJs , Mongodb, Mysql
-* 📱 Android Apps
-* 💻 HTML, CSS, JS
+-- ⚡ Proficient in single-page, interactive dashboards using modern frameworks to display real-time data.
+-- 🌟 Designing responsive dashboards that adapt seamlessly across devices for an optimized user experience.
+-- 🧩 Transforming complex datasets into intuitive visuals to ensure data is readable and actionable.
+-- 📊 Cleaning, structuring, and preparing raw data for analysis
+-- 💻 Enjoy exploring and implementing state-of-the-art tools and frameworks in AI, cloud computing, and web development.
+-- 🌐 Proficient in the integration of front-end and back-end technologies for complete and robust solutions.
 
 ## Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
-
 <img align="left" alt="JAVA" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="padding-right:10px;" />
 <img align="left" alt="nodejs" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
 <img align="left" alt="ubuntu" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-original.svg" style="padding-right:10px;" />
