@@ -12,12 +12,12 @@
   
 ## 🛠 Skills
 
--- ⚡ Proficient in single-page, interactive dashboards using modern frameworks to display real-time data.
--- 🌟 Designing responsive dashboards that adapt seamlessly across devices for an optimized user experience.
--- 🧩 Transforming complex datasets into intuitive visuals to ensure data is readable and actionable.
--- 📊 Cleaning, structuring, and preparing raw data for analysis
--- 💻 Enjoy exploring and implementing state-of-the-art tools and frameworks in AI, cloud computing, and web development.
--- 🌐 Proficient in the integration of front-end and back-end technologies for complete and robust solutions.
+- ⚡ Proficient in single-page, interactive dashboards using modern frameworks to display real-time data.
+- 🌟 Designing responsive dashboards that adapt seamlessly across devices for an optimized user experience.
+- 🧩 Transforming complex datasets into intuitive visuals to ensure data is readable and actionable.
+- 📊 Cleaning, structuring, and preparing raw data for analysis
+- 💻 Enjoy exploring and implementing state-of-the-art tools and frameworks in AI, cloud computing, and web development.
+- 🌐 Proficient in the integration of front-end and back-end technologies for complete and robust solutions.
 
 ## Languages and Tools:
 
